@@ -1,5 +1,5 @@
 const axios=require('axios'),
-      {lugarAPI}=require('../configApis').module
+      {lugarAPI}=require('../Apis').module
 
 const obtenerUbicacion= async (direccion)=>{
 

@@ -1,5 +1,5 @@
 const axios=require('axios'),
-      {climaAPI}=require('../configApis').module
+      {climaAPI}=require('../Apis').module
 
 
 const clientInformation=async (data)=>{
